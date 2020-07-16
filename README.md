@@ -4,11 +4,11 @@
 ### Hi there 👋, I'm [Anindya](https://anindyasdas.github.io/)
 
 
-<a href="https://twitter.com/GOVINDDIXIT05">
-  <img align="left" alt="Govind Dixit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Anindya_S_Das">
+  <img align="left" alt="Anindya S Das | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anindyasdas">
-  <img align="left" alt="Govind's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anindya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 <br />
