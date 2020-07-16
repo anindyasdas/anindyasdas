@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 ### Hi there 👋, I'm [Anindya](https://anindyasdas.github.io/)
@@ -20,7 +20,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/WdJPzVkIGEQEw/200w.gif" />
 
 
 **Talking about Personal Stuffs/Achievements:**
@@ -35,13 +35,6 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 &nbsp;
 
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -50,5 +43,5 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 ![Anindya's github stats](https://github-readme-stats.vercel.app/api?username=anindyasdas&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/anindyasdas/anindyasdas) :pencil:
+
 
