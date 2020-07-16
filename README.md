@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anindya, doing my masters in Mathematics and Computing ai IIT Patna, interested in NLP, Machine Learning, Vision, 🚀 from India; I have just submitted my master's thesis at IIT Patna
+Hi, I'm Anindya, doing my masters in Mathematics and Computing at IIT Patna, interested in NLP, Machine Learning, Vision, 🚀 from India; I have just submitted my master's thesis at IIT Patna
 
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
