@@ -20,7 +20,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 
 
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/WdJPzVkIGEQEw/200w.gif" />
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />
 
 
 **Talking about Personal Stuffs/Achievements:**
