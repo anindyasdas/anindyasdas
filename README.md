@@ -26,7 +26,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 **Talking about Personal Stuffs/Achievements:**
 
 - 🥇 DAAD Masters Scholarship awardee 2019. 
-- 🎓 Department rank 1(MTech Math and Computing, 2nd rank among all MTech students of IIT Patna). 
+- 🎓 Department rank 1(MTech Math and Computing,highest GPA among all MTech students(all discipline combined) of IIT Patna). 
 - 👨‍Selected for MS(engineering) EE in IISc(2015), M.Tech IIT kgp Multimedia Information processing(2015).
 - 🌱 Departmental Rank 5,ECE Narula Institute of Technology(2012).
 - ⚡️ Worked 4.5 years at IBM India as Software developer.
