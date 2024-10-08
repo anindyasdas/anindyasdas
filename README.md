@@ -26,7 +26,7 @@ Hi, my name is [Anindya S. Das](https://anindyasdas.github.io/). I am a third-ye
 - 🥇 Best Paper Award ICONIP 2023.
 - 🥇 DAAD Masters Scholarship awardee 2019. 
 - 🎓 Department rank 1(MTech Math and Computing,highest GPA among all MTech students(all disciplines combined) of IIT Patna). 
-- 👨‍Selected for MS(engineering) EE in IISc(2015), M.Tech IIT kgp Multimedia Information processing(2015).
+  <!-- 👨‍Selected for MS(engineering) EE in IISc(2015), M.Tech IIT kgp Multimedia Information processing(2015).-->
 - 🌱 Departmental Rank 5,ECE Narula Institute of Technology(2012).
 - ⚡️ Worked 4.5 years at IBM India as Software developer.
 - 📫 How to reach me: anindyasd34@gmail.com
