@@ -25,10 +25,7 @@ Hi, my name is [Anindya S. Das](https://anindyasdas.github.io/). I am a third-ye
 - 🥇 Nasscom AI Game Changer Awards 2024 for our [research work](https://aclanthology.org/2022.naacl-main.174.pdf).
 - 🥇 Best Paper Award ICONIP 2023.
 - 🥇 DAAD Masters Scholarship awardee 2019. 
-- 🎓 Department rank 1(MTech Math and Computing,highest GPA among all MTech students(all disciplines combined) of IIT Patna). 
-  <!-- 👨‍Selected for MS(engineering) EE in IISc(2015), M.Tech IIT kgp Multimedia Information processing(2015).-->
-- 🌱 Departmental Rank 5,ECE Narula Institute of Technology(2012).
-- ⚡️ Worked 4.5 years at IBM India as Software developer.
+- 🎓 Graduated from IIT Patna (Institute Silver Medal, MTech) 2020
 - 📫 How to reach me: anindyasd34@gmail.com
 
 &nbsp;
