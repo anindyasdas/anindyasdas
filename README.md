@@ -13,10 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anindya, doing my masters in Mathematics and Computing at IIT Patna, interested in NLP, Machine Learning, Vision, 🚀 from India; I have just submitted my master's thesis at IIT Patna
-
-
-Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
+Hi, my name is [Anindya S. Das](https://anindyasdas.github.io/). I am a third-year PhD candidate at [Umeå University](https://www.umu.se/), Sweden, Funded by [WASP](https://wasp-sweden.org/). I hold an MTech (Institute Silver Medal) in Mathematics and Computing from [IIT Patna](https://www.iitp.ac.in/) and a BTech in Electronics and Communication Engineering from [WBUT](https://www.nit.ac.in/). I have gained experience in both industry and academia, having worked at [IBM](https://en.wikipedia.org/wiki/IBM) as a System Engineer, [LG Electronics](https://sv.wikipedia.org/wiki/LG_Electronics) as a Senior Research Engineer, [TU Darmstad]t(https://www.tu-darmstadt.de/) as a Research Intern, and [TCS Research](https://www.tcs.com/what-we-do/research) as a Research Intern. My research interests include Machine Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Multimodal Learning.
 
 
 
