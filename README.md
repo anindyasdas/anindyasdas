@@ -10,6 +10,10 @@
 <a href="https://www.linkedin.com/in/anindyasdas">
   <img align="left" alt="Anindya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://scholar.google.com/citations?user=Crt-b-YAAAAJ">
+  <img align="left" alt="Anindya's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />
+</a>
+
 <br />
 <br />
 
